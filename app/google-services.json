@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659029263443",
+    "firebase_url": "https://rock-paper-rainbow.firebaseio.com",
+    "project_id": "rock-paper-rainbow",
+    "storage_bucket": "rock-paper-rainbow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659029263443:android:dafe8e64bd2994365372a6",
+        "android_client_info": {
+          "package_name": "com.example.rockpaperrainbow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659029263443-6d36ddo5qnje0akv9knlslr9ehdc62ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpD5lkSE8ZOXU7D_5I7nXSedOTVyijcKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659029263443-6d36ddo5qnje0akv9knlslr9ehdc62ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
